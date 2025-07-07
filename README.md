@@ -52,7 +52,7 @@ flutter run
 
 ## 📌 TODO
 
-- [ ] Optimize canvas performance (FPS 60 以上を維持)
+- [★] Optimize canvas performance (FPS 60 以上を維持)
 - [ ] Enhance AI generation quality (Genkit fine-tune)
 - [ ] Implement undo/redo history (多段階)
 - [ ] Improve SNS sharing (Instagram / LINE / X)
